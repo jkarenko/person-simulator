@@ -1,0 +1,19 @@
+{
+  "name": "person-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "person.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "highlight.js": "^11.10.0",
+    "puppeteer": "^23.2.0"
+  }
+}
